@@ -87,7 +87,7 @@ export const projects = [
       { label: 'GitHub', type: 'github', url: 'https://github.com/Sri-Adi-Ananta/Shri-Adi-Ananta' },
     ],
     color: '#E8D48A',
-  },
+  },/*
   {
     name: 'Fitzzi',
     category: 'Web Apps',
@@ -103,7 +103,7 @@ export const projects = [
     description: 'Crop disease prediction using ML.',
     links: [{ label: 'GitHub', type: 'github', url: '#' }],
     color: '#8FD19E',
-  },
+  },*/
   /*{
     name: 'Salesforce Attendance System',
     category: 'Others',
