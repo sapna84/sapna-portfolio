@@ -9,7 +9,7 @@ export const profile = {
   education: 'B.Tech CSE | Full Stack Developer',
   location: 'Bareilly, UP',
   degree: 'B.Tech (2023 – 2027)',
-  email: 'sapna@example.com',
+  email: 'sapnaml4004@gmail.com',
   linkedin: 'linkedin.com/in/sapna-4004d',
   github: 'github.com/sapna84',
   resumeUrl: '/resume.pdf',
@@ -104,7 +104,7 @@ export const projects = [
     links: [{ label: 'GitHub', type: 'github', url: '#' }],
     color: '#8FD19E',
   },
-  {
+  /*{
     name: 'Salesforce Attendance System',
     category: 'Others',
     tag: 'LWC · Apex',
@@ -119,7 +119,7 @@ export const projects = [
     description: 'Search topics from PDF files using NLP.',
     links: [{ label: 'GitHub', type: 'github', url: '#' }],
     color: '#D5A6BD',
-  },
+  },*/
 ]
 
 export const skillGroups = [
