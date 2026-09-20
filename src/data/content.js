@@ -60,8 +60,8 @@ export const projects = [
     tag: 'MERN Stack',
     description: 'A pet care & adoption platform with features like pet listing, vet appointments, lost & found and more.',
     links: [
-      { label: 'Live Site', type: 'live', url: '#' },
-      { label: 'GitHub', type: 'github', url: '#' },
+      { label: 'Live Site', type: 'live', url: 'https://www.adoptbuddy.online/' },
+      { label: 'GitHub', type: 'github', url: 'https://github.com/sapna84/AdoptBuddy' },
     ],
     color: '#F3A65B',
   },
@@ -83,8 +83,8 @@ export const projects = [
     tag: 'React + Vite · Tailwind',
     description: 'A professional static website for a watch store (authorized associate of Titan/Fastrack).',
     links: [
-      { label: 'Live Site', type: 'live', url: '#' },
-      { label: 'GitHub', type: 'github', url: '#' },
+      { label: 'Live Site', type: 'live', url: 'https://www.sriadiananta.com/' },
+      { label: 'GitHub', type: 'github', url: 'https://github.com/Sri-Adi-Ananta/Shri-Adi-Ananta' },
     ],
     color: '#E8D48A',
   },
